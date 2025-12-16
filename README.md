@@ -5,7 +5,7 @@
 
 - 🔭 Final year project: **Solar Cell Structure Simulation using AFORSHET/Fabrication of Solar Cell Structure**
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 Currently I’m learning **Full Stack Development.**
 
 - 📫 How to reach me **dassenjuti157@gmail.com**
 
