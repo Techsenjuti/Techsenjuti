@@ -5,7 +5,7 @@
 
 - 🔭 Final year project: **Solar Cell Structure Simulation using AFORSHET/Fabrication of Solar Cell Structure**
 
-- 🌱 I’m currently learning **frontend development , Set up and navigate the Afors-Het software environment.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
 - 📫 How to reach me **dassenjuti157@gmail.com**
 
